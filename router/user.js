@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
 const handler = require("../routerHandler/user.js");
-router.get("/login",handler.login);
-router.get("/reg",handler.reguser);
+router.post("/login",handler.login);
+router.post("/reg",handler.reguser);
 module.exports=router;

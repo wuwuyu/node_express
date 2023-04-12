@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.customGlyphs": true,
+    "terminal.integrated.fontWeight": "normal",
+    "terminal.integrated.fontWeightBold": "bold",
+    "terminal.integrated.localEchoStyle": "dim",
+    "terminal.integrated.tabs.defaultColor": null,
+    "debug.enableStatusBarColor": true
+}
